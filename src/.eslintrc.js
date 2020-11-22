@@ -36,6 +36,7 @@ module.exports = {
       "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }], //should add ".ts" if typescript project
       "prettier/prettier": ["error", {
         "endOfLine":"auto"
-      }]
+      }],
+      '@typescript-eslint/explicit-function-return-type': 'off'
     },
   };
