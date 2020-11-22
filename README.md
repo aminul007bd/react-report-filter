@@ -1,5 +1,9 @@
 --Building a report filter app
 
+
+## Bug why I downgrade typescript version
+https://github.com/facebook/create-react-app/issues/10110
+
 ## Available Scripts
 
 In the project directory, you can run:
